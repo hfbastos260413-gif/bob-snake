@@ -1,0 +1,26 @@
+{
+  "name": "Bob Snake",
+  "short_name": "Bob 🐍",
+  "description": "A cobra mais estilosa do pedaço — evolua, colete maçãs e domine o Modo Boss!",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0a0a12",
+  "theme_color": "#f5c542",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games"],
+  "lang": "pt-BR"
+}
